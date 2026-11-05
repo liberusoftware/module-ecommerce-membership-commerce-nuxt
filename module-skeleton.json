@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-membership-commerce-nuxt",
+  "capabilityKey": "planned:ecommerce:membership-commerce",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-membership-commerce-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/membership-commerce.md",
+  "presentationPlan": "projects/ecommerce/nuxt/membership-commerce.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
